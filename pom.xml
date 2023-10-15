@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>br.com.daniloalves</groupId>
 	<artifactId>todolist</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>todolist</name>
 	<description>Gerenciador de tarefas</description>
 	<properties>
@@ -18,12 +18,12 @@
 	</properties>
 	<dependencies>
 
-		<dependency>
+		<!--<dependency>
 			<groupId>org.springframawork.boot</groupId>
 			<artifactId>spring-boot-devtools</artifactId>
 			<optional>true</optional>
 			<version>3.0.11</version>
-		</dependency>
+		</dependency> -->
 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
